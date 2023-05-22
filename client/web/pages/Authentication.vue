@@ -4,3 +4,9 @@
          <Authentication/>
     </div>
 </template>
+
+<script setup>
+
+
+
+</script>
